@@ -11,7 +11,8 @@ These codes integrate Stereo-seq spatial transcriptomics gene expression data wi
 3. BAM processing for VC workflow
 4. Variant calling
 5. Neoantigen prediction
-6. Variant processing 
+6. Variant processing
+7. Downstream analyses
 
 ```mermaid
 graph TD;
